@@ -11,7 +11,7 @@ public class EncapsulationDemo {
 		obj.setName("Pooja");
 		obj.setAge(20);
 		System.out.println(obj);
-		
+		 
 	}
 
 }
