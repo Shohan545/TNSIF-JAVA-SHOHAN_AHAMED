@@ -1,0 +1,27 @@
+class thred(){
+class A(){
+void disp{
+System.out.println("Hello");
+}
+class A extends thread{
+public void run(){
+for(i=0;i<50;i++){
+System.out.print("Hellow")
+}
+}
+}
+class B extends thread{
+public void main run(){
+for(i=0;i<50;i++){
+System.out.println("Bye")
+}
+}
+}
+Public static void main(String args[]){
+A st=new A();
+B dt=new B();
+st.run();
+dt.run();
+}
+}
+}
